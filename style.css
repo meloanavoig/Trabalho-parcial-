@@ -1,0 +1,38 @@
+body{
+    width: 95%;
+    max-width: 800px;
+    margin: auto;
+    background: url(homem-mexendo-no-notebook2.jpg) center;
+
+   font-family: sans-serif; 
+   line-height: 1.5;
+   color:black;
+}
+
+main {
+    background: #a896967a;;
+    padding: 5px  40px;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.botao, .title {
+    text-align: center;
+}
+
+.busca{
+background-color: white;
+border: slategray 1px black; 
+border-radius: 6px;
+width: 200px;
+height: 25px; 
+}
+
+
+.buscador{
+background-color: white;
+font-size: 15px; 
+border: none;
+border-radius: 10px;
+width: 80px;
+}
